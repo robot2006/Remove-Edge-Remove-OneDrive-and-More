@@ -1,4 +1,5 @@
 # Windows Utility Toolkit
+![Windows Utility Toolkit Screenshot](./assets/toolkit_screenshot.png)
 
 A powerful, all-in-one PowerShell GUI toolkit for cleaning and managing Windows 10/11 systems. Easily remove bloatware like Edge and OneDrive, reset the icon cache, find/kill processes locking a folder, and toggle an annoying Defender privacy setting/notification.
 
@@ -41,21 +42,9 @@ This toolkit combines several powerful scripts into a single, user-friendly inte
 ## How to Use
 
 1.  **Download:** Clone this repository or download the ZIP file and extract it.
-2.  **Prerequisite:** Ensure the `Force_Close_Folder` directory, containing `handle64.exe`, is in the same location as the main script. You can download it from here:
+2.  **Prerequisite:** Download `handle64.exe` and paste it into the `Force_Close_Folder` directory. You can download it from here:
 	(https://download.sysinternals.com/files/Handle.zip).
-	
-	It should look like this:
-Windows_11_Fix_Tools	
-	│   debug.bat
-│   README.md
-│   Run.bat
-│   Windows_Utility_Toolkit.ps1
-│
-└───Force_Close_Folder
-        handle.exe
-        handle64.exe
-        handle64a.exe
-		
+			
 3.  **Run the Toolkit:** Double-click the **`Run.bat`** file. It will automatically request administrator privileges and launch the GUI.
 
 ---
