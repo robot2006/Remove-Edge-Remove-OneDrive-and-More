@@ -41,7 +41,7 @@ This toolkit combines several powerful scripts into a single, user-friendly inte
 ## How to Use
 
 1.  **Download:** Clone this repository or download the ZIP file and extract it.
-2.  **Prerequisite:** Download `handle64.exe` and paste it into `Force_Close_Folder` directory. You can download it from here:
+2.  **Prerequisite:** Download `handle64.exe` and paste it into the `Force_Close_Folder` directory. You can download it from here:
 	(https://download.sysinternals.com/files/Handle.zip).
 			
 3.  **Run the Toolkit:** Double-click the **`Run.bat`** file. It will automatically request administrator privileges and launch the GUI.
