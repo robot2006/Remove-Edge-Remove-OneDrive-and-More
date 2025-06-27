@@ -1,0 +1,1 @@
+powershell.exe -NoExit -ExecutionPolicy Bypass -File ".\Windows_Utility_Toolkit.ps1"
