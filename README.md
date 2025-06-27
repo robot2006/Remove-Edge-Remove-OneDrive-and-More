@@ -1,5 +1,5 @@
 # Windows Utility Toolkit
-![Windows Utility Toolkit Screenshot](./assets/toolkit-screenshot.png)
+![Windows Utility Toolkit Screenshot](./assets/toolkit_screenshot.png)
 
 A powerful, all-in-one PowerShell GUI toolkit for cleaning and managing Windows 10/11 systems. Easily remove bloatware like Edge and OneDrive, reset the icon cache, find/kill processes locking a folder, and toggle an annoying Defender privacy setting/notification.
 
