@@ -15,7 +15,7 @@ This toolkit combines several powerful scripts into a single, user-friendly inte
 
 #### 2. System Tools
 - **Reset Icon Cache:** A quick tool to fix corrupted or broken desktop and folder icons by clearing the cache and restarting Explorer.
-- **Toggle Defender Privacy:** A reversible tweak to enable or disable "Automatic sample submission" in Windows Defender.
+- **Toggle Defender Privacy:** A reversible tweak to enable or disable the annoying notificiations when "Automatic sample submission" is turned off in Windows Defender.
 
 #### 3. Folder Unlocker
 - **Find & Kill Locking Processes:** Select a folder to identify which processes are currently using files within it.
